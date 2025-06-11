@@ -20,3 +20,6 @@ For movement, the robot is equipped with DC motors (TT motors) coupled with redu
 （資料來源：[emakefun/MotorDriverBoard GitHub](https://github.com/emakefun/MotorDriverBoard)）<br>
 The control system is based on emakefun's MotorDriverBoard V5.2, combined with an Arduino Uno as the main controller. A PS2X controller, connected to the board, is used for remote control.
 (Source: [emakefun/MotorDriverBoard GitHub](https://github.com/emakefun/MotorDriverBoard))
+
+## DEMO 
+[DEMO影片 ](https://drive.google.com/file/d/1ZqK23IXuCDHVpfBxw_mp3waRBq4_1Bg7/view?usp=drive_link)  
