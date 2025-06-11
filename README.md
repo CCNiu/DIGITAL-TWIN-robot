@@ -1,4 +1,7 @@
-這是一台能夠攀爬由 A4 紙包裝組成樓梯的機器人，能夠自地面爬升至五階樓梯。
+課程名稱:113-2_數位孿生與機器學習  
+Class name:113-2_RACTICE OF DIGITAL TWIN AND MACHINE LEARNING SYSTEM
+
+這是一台能夠攀爬由 A4 紙包裝組成樓梯的機器人，能夠自地面爬升至五階樓梯。<br>
 This is a robot designed to climb stairs made of A4 paper packaging. It can ascend from the ground up to the fifth step.
 
 ![Alt text](photo/001.jpg "robot")
@@ -13,7 +16,7 @@ Servo motors are used to support the structure and serve as joints, enabling the
 For movement, the robot is equipped with DC motors (TT motors) coupled with reduction gears and Mecanum wheels, allowing omnidirectional motion control.
 
 ## 操控系統  Control System
-操控部分使用 emakefun 公司推出的 MotorDriverBoard V5.2，搭配 Arduino Uno 作為主控板，並結合主板上的 PS2X 控制器進行遙控操作。  
+操控部分使用 emakefun 公司推出的 MotorDriverBoard V5.2，搭配 Arduino Uno 作為主控板，並結合主板上的 PS2X 控制器進行遙控操作。
 （資料來源：[emakefun/MotorDriverBoard GitHub](https://github.com/emakefun/MotorDriverBoard)）<br>
 The control system is based on emakefun's MotorDriverBoard V5.2, combined with an Arduino Uno as the main controller. A PS2X controller, connected to the board, is used for remote control.
 (Source: [emakefun/MotorDriverBoard GitHub](https://github.com/emakefun/MotorDriverBoard))
