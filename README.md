@@ -1,6 +1,7 @@
-這是一台能夠攀爬由 A4 紙包裝盒組成樓梯的機器人，能夠自地面爬升至五階樓梯。
-This is a robot designed to climb stairs made of A4 paper boxes. It can ascend from the ground up to the fifth step.
+這是一台能夠攀爬由 A4 紙包裝組成樓梯的機器人，能夠自地面爬升至五階樓梯。
+This is a robot designed to climb stairs made of A4 paper packaging. It can ascend from the ground up to the fifth step.
 
+![Alt text](photo\001.jpg "robot")
 ## 結構與機構設計
 機器人整體結構分為三段，分別是前段與後段的馬達模組，以及中間連接兩端的橋接結構（bridge）。
 ## Structure and Mechanical Design
