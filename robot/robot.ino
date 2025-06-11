@@ -59,7 +59,7 @@ void InitServo(void){
 void setup() {
   // put your setup code here, to run once:
   Serial.begin(9600);
-  mMotor.begin(50);   /*初始化io口的输出频率为50Hz*/
+  mMotor.begin(50);   /*初始化io口的輸出頻率為50Hz*/
   InitServo();
   SetServoBaseDegree(90);
   error = ps2x.config_gamepad(PS2_CLK, PS2_CMD, PS2_SEL, PS2_DAT, pressures, rumble);
